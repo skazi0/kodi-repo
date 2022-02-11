@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.skazi" name="SkZ Add-ons" version="0.0.1" provider-name="skazi">
+    <extension point="xbmc.addon.repository" name="SkZ Add-ons">
+        <info compressed="true">https://raw.githubusercontent.com/skazi0/kodi-repo/main/repo/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/skazi0/kodi-repo/main/repo/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/skazi0/kodi-repo/main/repo</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>SkZ Add-ons repository</summary>
+        <summary lang="pl">SkZ - repozytorium dodatków</summary>
+        <description>Download SkZ Add-ons</description>
+        <description lang="pl">Pobieraj i instaluj dodatki z repozytorium skaziego</description>
+        <disclaimer> - </disclaimer>
+        <disclaimer lang="pl"> - </disclaimer>
+        <platform>all</platform>
+    </extension>
+</addon>
