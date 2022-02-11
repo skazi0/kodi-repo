@@ -1,0 +1,3 @@
+[submodule "repo/metadata.filmweb.pl"]
+	path = repo/metadata.filmweb.pl
+	url = https://github.com/skupi20/metadata.filmweb.pl

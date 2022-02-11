@@ -1,4 +1,3 @@
-#!/usr/bin/env python
 script_name = "repo_prep.py"
 revision_number = 5
 homepage = 'http://forum.xbmc.org/showthread.php?tid=129401'
