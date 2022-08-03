@@ -2,4 +2,4 @@
 git submodule update --remote
 rsync -av ../external/* .
 find -name '*.zip' -delete
-python repo_prep.py
+python3 repo_prep.py
